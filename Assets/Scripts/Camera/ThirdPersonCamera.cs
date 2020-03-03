@@ -17,12 +17,6 @@ public class ThirdPersonCamera : MonoBehaviour
 		cameraOffset = transform.position - target.transform.position;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
 	private void LateUpdate()
 	{
 		//updates the cameras offset position while running

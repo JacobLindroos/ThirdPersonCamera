@@ -1,14 +1,18 @@
 Godkänt
 
-    - Use a coding convention consistently throughout your code.
-    - Camera should be able to be controlled by mouse, gamepad is optional.
-    - The camera most follow the target smoothly.
-    - Vertical camera movement should be capped so it doesn’t go around the character.
-    - Design the systems to be usable by designers in the editor.
-    - The code must be free from compilation and runtime errors.
+    	  - Use a coding convention consistently throughout your code.
+    CHECK - Camera should be able to be controlled by mouse, gamepad is optional.
+    	  - The camera most follow the target smoothly.
+    CHECK - Vertical camera movement should be capped so it doesn’t go around the character.
+    	  - Design the systems to be usable by designers in the editor.
+    	  - The code must be free from compilation and runtime errors.
 
 Väl godkänt
 
-    - The camera must feel nice in the game.
-    - The camera must handle obstacles in the game world, so they don’t block the view.
-    - They player must be able to zoom the camera in or out.
+    	  - The camera must feel nice in the game.
+    	  - The camera must handle obstacles in the game world, so they don’t block the view.
+    CHECK - They player must be able to zoom the camera in or out.
+
+
+Occluded Render unity
+https://phigames.co.uk/rcoccluded.html
